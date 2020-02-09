@@ -2,7 +2,7 @@
  * HelloWorld.cpp
  *
  *  Created on: Oct 11, 2019
- *      Author: patri
+ *      Author: patrick
  */
 
 #include <iostream>
